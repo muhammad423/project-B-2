@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+    .section-one{
+        min-height: 70vh;
+        text-align: center;
+    }
+    .section-one .container .row .col-12 {
+        margin-top: 10rem;
+        word-spacing: 2px;
+        
+        }
+        
+        .section-one .container .row .col-12 h1{
+            font-size: 40px;
+            margin:  0;
+        }
+        
+        .section-one .container .row .col-12 p{
+            font-size: 15px;
+            margin:5px 0;
+        }
+}

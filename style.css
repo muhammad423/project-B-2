@@ -1,0 +1,114 @@
+body{
+overflow-x: hidden;
+ }
+ .nan-br{
+    background-color: #efefef;
+    height: 15vh;
+ }
+.na-baar .fab{
+    margin-left: 20px;
+    font-size: 30px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 7px;
+    
+}
+
+.na-baar .fab:hover{
+    background-color: transparent;
+    transition: 0.5s;
+}
+
+.nan-br .container .collapse{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.section-seven{
+    background-color: #efefef;
+}
+
+.nan-br .container a span{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* section-one */
+
+.section-one{
+ min-height: 80vh;
+background-position: center;
+background-size: cover;
+ 
+  
+
+}
+
+.section-one .container .row .col-12 {
+margin-top: 10rem;
+word-spacing: 2px;
+
+}
+
+.section-one .container .row .col-12 h1{
+    font-size: 50px;
+    margin: 10px 0;
+}
+
+.section-one .container .row .col-12 p{
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.c-1{
+    background-color: #efefef;
+}
+
+.c-1 .c-2 .c-3 .c-4 h1{
+font-size: 50px;
+margin: 20px 0;
+}
+
+.c-1 .c-2 .c-3 .c-4 p{
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+.c-1 .c-2 .c-22 .img-fluid{
+    border-radius: 20px;
+}
+
+.c-1 .c-two{
+    box-shadow: 0 1px 3px 1px rgba(0,0,0,0.3);
+}
+
+.c-1 .c-two .c-three .c-four h4{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.c-1 .c-two .c-three .c-four h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.section-four .c-four .ro-four .co-four .text-dark{
+    font-size: 20px;
+}
+
+.sec-five{
+    background-color: #efefef;
+}
+
+/* client-work  */
+
+.client-work{
+    background-color: #efefef;
+}
+
+.vedio-sec{
+    background-color: #efefef;
+}
+
+.form-sec .container {
+    background-color: #dce8eb;
+}
